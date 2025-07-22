@@ -1,0 +1,6 @@
+{
+  "name": "AI Product Spec Finder",
+  "description": "An application that finds detailed product specifications using AI. Supports single queries or bulk processing from a list, and exports results to JSON or CSV.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
