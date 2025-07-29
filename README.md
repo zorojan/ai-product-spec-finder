@@ -37,3 +37,7 @@ The primary and sole data source for this application is **Google Search**.
 -   `components/`: Contains all reusable React components.
 -   `utils/`: Contains utility functions, such as data export helpers.
 -   `types.ts`: Defines shared TypeScript types and interfaces.
+
+## Acknowledgments
+
+Special thanks to [SDH Global](https://sdh.global/) for their support in making this demo possible.
